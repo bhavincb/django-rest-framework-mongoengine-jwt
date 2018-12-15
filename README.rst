@@ -11,7 +11,6 @@ This repo has `JSON Web Token Authentication`_ support for
 
 If you want to know more about JWT, check out the following resources:
 
--  DjangoCon 2014 - JSON Web Tokens `Video`_ \| `Slides`_
 -  `Auth with JSON Web Tokens`_
 -  `JWT.io`_
 
